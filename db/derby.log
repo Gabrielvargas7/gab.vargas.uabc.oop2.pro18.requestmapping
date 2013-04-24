@@ -1,0 +1,17 @@
+Thu Oct 18 18:58:23 PDT 2012 : Apache Derby Network Server - 10.8.2.2 - (1181258) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Thu Oct 18 18:58:23 PDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-013a-76be-228f-00001d4d414a 
+on database directory C:\Users\GabrielVargas\Dropbox\uabc.oop\oop2\gab.vargas.uabc.oop2.pro18.requestmapping\db\Student  with class loader sun.misc.Launcher$AppClassLoader@64cbbe37 
+Loaded from file:/C:/Program%20Files/Java/jdk1.7.0_06/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_06-b24
+user.dir=C:\Program Files\Java\jdk1.7.0_06\db
+derby.system.home=C:\Users\GabrielVargas\Dropbox\uabc.oop\oop2\gab.vargas.uabc.oop2.pro18.requestmapping\db
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Oct 18 19:07:55 PDT 2012: Shutting down Derby engine
+----------------------------------------------------------------
+Thu Oct 18 19:07:55 PDT 2012:
+Shutting down instance a816c00e-013a-76be-228f-00001d4d414a on database directory C:\Users\GabrielVargas\Dropbox\uabc.oop\oop2\gab.vargas.uabc.oop2.pro18.requestmapping\db\Student with class loader sun.misc.Launcher$AppClassLoader@64cbbe37 
+----------------------------------------------------------------
